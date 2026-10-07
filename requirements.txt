@@ -1,0 +1,5 @@
+# TwinSisters — зависимости проекта
+# Python 3.14.8
+
+llama-cpp-python>=0.3.0
+pyyaml>=6.0
